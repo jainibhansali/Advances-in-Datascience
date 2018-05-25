@@ -1,0 +1,11 @@
+Docker commands for Part2
+
+To build locally and run
+docker build -f dock -t assignmentonepart2 .
+docker run -e year=yearoflog -e akey=awsaccesskey -e skey=awssecretkey -e sl=s3location -ti assignmentonepart2
+docker tag b7dc3f7451d3 tushargl016/part2assignmentone:latest
+Docker push <username>/part2assignmentone
+
+To pull from Dockerhub
+docker pull tushargl016/part2assignmentone
+docker run -e year=yearoflog -e akey=awsaccesskey -e skey=awssecretkey -e sl=s3location -ti tushargl016/assignmentonepart2

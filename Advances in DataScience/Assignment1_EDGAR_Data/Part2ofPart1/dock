@@ -1,0 +1,28 @@
+FROM ubuntu:14.04
+FROM python:3
+
+RUN mkdir -p /usr/src/team5assignment1
+WORKDIR /usr/src/team5assignment1
+
+RUN pip install pandas
+RUN pip install boto3
+RUN pip install numpy
+RUN pip install boto
+RUN pip install urllib3
+RUN pip install requests
+RUN pip install html5lib
+RUN pip install bs4
+RUN pip install lxml
+
+ENV ck 1
+ENV ac 1
+ENV akey 1
+ENV skey 1
+ENV sl 1
+
+
+
+COPY Part2ofPart1.py /usr/src/team5assignment1/
+
+CMD ["sh","-c","python /usr/src/team5assignment1/Part2ofPart1.py --cik ${ck} --acn ${ac} --akey ${akey} --skey ${skey} --s3loc ${sl}"] 
+

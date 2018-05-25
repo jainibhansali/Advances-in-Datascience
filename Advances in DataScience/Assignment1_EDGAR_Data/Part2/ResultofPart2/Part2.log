@@ -1,0 +1,344 @@
+INFO:root:S3loc present
+INFO:root:2017-10-07 01:29:13.417971    Creating directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr1/log20050101.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr1/log20050101.zip HTTP/1.1" 200 2437086
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr1/log20050201.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr1/log20050201.zip HTTP/1.1" 200 10374621
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr1/log20050301.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr1/log20050301.zip HTTP/1.1" 200 11612104
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr2/log20050401.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr2/log20050401.zip HTTP/1.1" 200 76521
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr2/log20050501.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr2/log20050501.zip HTTP/1.1" 200 2519089
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr2/log20050601.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr2/log20050601.zip HTTP/1.1" 200 6397995
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr3/log20050701.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr3/log20050701.zip HTTP/1.1" 200 5335246
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr3/log20050801.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr3/log20050801.zip HTTP/1.1" 200 5739614
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr3/log20050901.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr3/log20050901.zip HTTP/1.1" 200 4722849
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr4/log20051001.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr4/log20051001.zip HTTP/1.1" 200 36804
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr4/log20051101.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr4/log20051101.zip HTTP/1.1" 200 67979
+INFO:root:2017-10-07 01:29:13.417971  creating the url for each month
+INFO:root:2017-10-07 01:29:13.417971  creating the stream to fetch data
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:http://www.sec.gov:80 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr4/log20051201.zip HTTP/1.1" 301 367
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.sec.gov
+DEBUG:urllib3.connectionpool:https://www.sec.gov:443 "GET /dera/data/Public-EDGAR-log-file-data/2005/Qtr4/log20051201.zip HTTP/1.1" 200 5173276
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    Reading csvs one by one directory for saving tables
+INFO:root:2017-10-07 01:29:13.417971    changing datatypes of the columns
+INFO:root:2017-10-07 01:29:13.417971    Validating the column values
+INFO:root:2017-10-07 01:29:13.417971    Finding the the browser eith maximum count for that year
+INFO:root:2017-10-07 01:29:13.417971    checking the max code for that month
+INFO:root:2017-10-07 01:29:13.417971    max count for the find of that year
+INFO:root:2017-10-07 01:29:13.417971    count of max extention
+INFO:root:2017-10-07 01:29:13.417971    Rcount of max zone
+INFO:root:2017-10-07 01:29:13.417971    count of max idx
+INFO:root:2017-10-07 01:29:13.417971    Replacing the nan values with appropriate values
+INFO:root:2017-10-07 01:29:13.417971    dropping rows which have null values for the following columns
+INFO:root:2017-10-07 01:29:13.417971  merging all data to a single dataframe
+INFO:root:2017-10-07 01:29:13.417971    Missing data handled now starting summary metrics
+INFO:root:2017-10-07 01:29:13.417971    Describing the stats for all the column to help us decide the metrics
+INFO:root:2017-10-07 01:29:13.417971    mean and median of file sizes openend in browser
+INFO:root:2017-10-07 01:29:13.417971    taking mean file size on basis of idx we find a lot of difference in this metrics
+INFO:root:2017-10-07 01:29:13.417971    Median of all data on the basis of idx
+INFO:root:2017-10-07 01:29:13.417971    Top searched cik's
+INFO:root:2017-10-07 01:29:13.417971    checking count of status code
+INFO:root:2017-10-07 01:29:13.417971    number of request made per day
+INFO:root:2017-10-07 01:29:13.417971    mean file size on the basis of a date
+INFO:root:2017-10-07 01:29:13.417971    mean file size on basis of cik
+INFO:root:2017-10-07 01:29:13.417971    plotting the graph for top 5 cik
+INFO:root:2017-10-07 01:29:13.417971    plotting the graph for number of status code
+INFO:root:2017-10-07 01:29:13.417971    number of requests made pe day
+INFO:root:2017-10-07 01:29:13.417971    Average file size opened on a date
+INFO:root:2017-10-07 01:29:13.417971    average mean file size of cik 
+INFO:root:2017-10-07 01:29:13.417971    Average traffic per hour everyday

@@ -1,0 +1,38 @@
+
+Docker commands for part2ofpart1
+
+To build and run locally
+docker build -f dock -t part2ofpart1 .
+docker run -e ck=cik -e ac=accession number -e akey=awsaceesskey -e skey=awssecretkey -e sl=s3location -ti part2ofpart1
+docker tag b7dc3f7451d3 tushargl016/part2ofpart1:latest
+Docker push <username>/part2ofpart1
+
+
+To pull from Dockerhub
+
+docker pull tushargl016/part2ofpart1
+docker run -e ck=cik -e ac=accession number -e akey=awsaceesskey -e skey=awssecretkey -e sl=s3location -ti tushargl016/part2ofpart1
+
+
+
+Docker commands for Part2
+
+To build locally and run
+docker build -f dock -t assignmentonepart2 .
+docker run -e year=yearoflog -e akey=awsaccesskey -e skey=awssecretkey -e sl=s3location -ti assignmentonepart2
+docker tag b7dc3f7451d3 tushargl016/part2assignmentone:latest
+Docker push <username>/part2assignmentone
+
+To pull from Dockerhub
+docker pull tushargl016/part2assignmentone
+docker run -e year=yearoflog -e akey=awsaccesskey -e skey=awssecretkey -e sl=s3location -ti tushargl016/assignmentonepart2
+
+
+
+
+
+
+
+
+
+

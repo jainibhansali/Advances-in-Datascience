@@ -1,0 +1,14 @@
+Docker commands for part2ofpart1
+
+To build and run locally
+docker build -f dock -t part2ofpart1 .
+docker run -e ck=cik -e ac=accession number -e akey=awsaceesskey -e skey=awssecretkey -e sl=s3location -ti part2ofpart1
+docker tag b7dc3f7451d3 tushargl016/part2ofpart1:latest
+Docker push <username>/part2ofpart1
+
+
+To pull from Dockerhub
+
+docker pull tushargl016/part2ofpart1
+docker run -e ck=cik -e ac=accession number -e akey=awsaceesskey -e skey=awssecretkey -e sl=s3location -ti tushargl016/part2ofpart1
+

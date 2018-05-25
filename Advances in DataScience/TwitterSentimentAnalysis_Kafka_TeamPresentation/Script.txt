@@ -1,0 +1,23 @@
+Commands to Stream and Analyze the Data
+
+Navigate to Kafka bin folder
+
+1. Start Zoo Keeper (on first CMD window)
+
+bin\windows\zookeeper-server-start.bat config\zookeeper.properties
+
+2. Start the Kafka Server
+
+bin\windows\kafka-server-start.bat config\server.properties
+
+3. Create a Topic
+
+bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+
+4.Run the python script to stream from twitter and make it a kafka producer 
+
+python tweetkafka.py
+
+Running the Stream Analysis Program in pyspark run the command in spark folder
+
+5.bin\spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.2 constest.py
